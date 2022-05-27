@@ -4,6 +4,7 @@ import 'package:http/http.dart' as http;
 class Gif {
   final String name;
   final String url;
+  
 
  Gif(this.name, this.url);
 }
