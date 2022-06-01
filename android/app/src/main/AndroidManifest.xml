@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.miprimeraapp">
    <application
-        android:label="miprimeraapp"
+        android:label="app nasa"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
