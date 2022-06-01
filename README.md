@@ -1,16 +1,12 @@
-# miprimeraapp
+# Tres Astronautas Challenge
 
-A new Flutter project.
+El presente repositorio contiene el challenge presentado por la empresa Tres Astronautas.
 
-## Getting Started
+Para realizar la aplicacion se utilizo la version de Flutter 3.0.1
 
-This project is a starting point for a Flutter application.
+Se utilizo la libreria Provider 6.0.3 como gestor de estados de la aplicación
 
-A few resources to get you started if this is your first Flutter project:
+## Ejecucion
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para ejecutar el código, se debe entrar a la carpeta contenedora y ejecutar
+flutter run
